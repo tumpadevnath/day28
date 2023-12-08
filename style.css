@@ -1,0 +1,138 @@
+.section{
+    width:1440px;
+    height: 677px;
+    background-color: darkblue;
+}
+.nav{
+    width: 1160px;
+    height: 44px;
+    margin-top: 42px;
+    margin-left: 156px;
+    margin-right: 124px;
+    margin-bottom: 591px;
+}
+.D1{
+    display: flex;
+
+}
+.H5{
+    margin-left: 20px;
+    color:white;
+}
+.png{
+   width: 24px; 
+   height: 24px;
+   background-color: darkred;
+   margin-left: 10px;
+
+}
+.BT{
+    width: 123px;
+    height: 44px;
+    background-color:darkred;
+    color: white;
+    margin-left: 10px;
+}
+.D2{
+    width: 485px;
+    height: 230px;
+    margin-top: 121px;
+    margin-left: 156px;
+    margin-bottom: 240px;
+    margin-right: 799px;
+    display: flex;
+}
+
+.H1{
+   color: white; 
+}
+.BT1{
+    width: 123px;
+    height: 44px;
+    background-color:darkred;
+    color: white;
+
+   
+}
+.D21{
+    width: 556px;
+    height: 438px;
+    margin-left: 186px;
+    margin-bottom: 144px;
+ 
+}
+.IMG2{
+    width: 388px;
+    height: 428px;
+   
+}
+.second{
+    margin-left: 186px;
+    height: auto;
+    margin-left: 36px;
+}
+.Third{
+    width: 330px;
+    height: 474px;
+    margin-top: 70px;
+    margin-left: 36px;
+    border: 1px solid;
+  box-shadow: 5px 5px 8px 4px  #888888;
+}
+.Im34{
+    width: 310px;
+    height: 300px;
+    margin: 10px;
+}
+.sec{
+    width: 1440px;
+    height: auto;
+}
+.ppp{
+    margin-left: 10px;
+}
+.gggg{
+    width: 466px;
+    height: 309px;
+    margin-top: 124px;
+    margin-left: 180px;
+}
+.rrrr{
+    width:1150px;
+    height: auto;
+    margin-top: 70px;
+    margin-left: 36px;
+    border: 1px solid;
+  box-shadow: 5px 5px 8px 4px  #888888;
+  display: flex;
+}
+.dddd{
+    width: 367px;
+    height: 227px;
+   margin-right: 180px;
+    margin-top: 50px;
+}
+.llll{
+    width: 483px;
+    height: 213px;
+    margin-left: 500px;
+    margin-top: 51px;
+}
+.ffff{
+    width:300px ;
+    height: auto;
+}
+.vvvv{
+    display: flex;
+    margin-top: 10px;
+    margin-left: 70px;
+
+}
+.mmmm{
+    width: 30px;
+    height: 30px;
+    margin-left: 20px;
+}
+.uuuu{
+    margin-left: 90px;
+}
